@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/**
+ * @author Khoa
+ */
 public class LAB_toString  {
     private double radius;
 

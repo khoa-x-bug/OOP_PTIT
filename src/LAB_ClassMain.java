@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/**
+ * @author Khoa
+ */
 public class LAB_ClassMain  {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
